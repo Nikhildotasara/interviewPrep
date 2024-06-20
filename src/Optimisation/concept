@@ -1,0 +1,4 @@
+Lazy loading - render only when required
+
+useMemo-Memorise the expensive calculation or computation
+
